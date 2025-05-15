@@ -1,0 +1,5 @@
+<script>start("/Users/leadanielleparker/Desktop/JS Final Project/assets/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow(".DS_Store",".DS_Store",0,6148,"6.0 kB",1747338564,"5/15/25, 11:49:24 AM");</script>
+<script>addRow("movielogo.jpg","movielogo.jpg",0,14908,"14.6 kB",1747270660,"5/14/25, 4:57:40 PM");</script>
+<script>addRow("movielogo.png","movielogo.png",0,32447,"31.7 kB",1747333385,"5/15/25, 10:23:05 AM");</script>
